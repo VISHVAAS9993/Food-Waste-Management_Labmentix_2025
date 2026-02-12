@@ -1,5 +1,5 @@
 # Food-Waste-Management_Labmentix_2025
-A data-driven Food Waste Management System built using Python, SQL (SQLite), and Streamlit to reduce food wastage by connecting food providers with receivers (NGOs / individuals in need) and analyzing food distribution patterns.
+ A data-driven Food Waste Management System built using Python, SQL (SQLite), and Streamlit to reduce food wastage by connecting food providers with receivers (NGOs / individuals in need) and analyzing food distribution patterns.
 
 Project Overview
 Food wastage is a major global issue, where surplus food from restaurants and households often goes unused while many people face food insecurity. This project aims to:
